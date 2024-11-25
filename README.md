@@ -22,3 +22,9 @@ Before you begin, ensure you have the following installed on your system:
    Open a Command Prompt or terminal in the project directory and run the following command:  
    ```bash
    npm install
+
+   
+2. **Run Porject**  
+   Open a Command Prompt or terminal in the project directory and run the following command:  
+   ```bash
+   nodemon index.js to run the backend
